@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "token": "abcdef123456",
+        "appVersion": "1.0.0"
+    },
+    "request": {
+        "usergroup": "A_02",
+        "groupName": "newUsers"
+    }
+}
